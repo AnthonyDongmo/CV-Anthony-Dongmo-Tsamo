@@ -109,12 +109,12 @@
 	
 	#link
 	{
-	color : white;
+	color : black;
 	}
 	
 	#link:hover
 	{
-	color : black;
+	color : white;
 	}
 }
 =======
