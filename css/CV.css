@@ -105,4 +105,14 @@
         list-style: none;
         padding-left : 0px;
     }
+	
+	#link
+	{
+	color : white;
+	}
+	
+	#link:hover
+	{
+	color : black;
+	}
 }
